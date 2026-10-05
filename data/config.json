@@ -1,18 +1,23 @@
 {
-  "nombre": "Ferretería Demo",
-  "titulo": "Todo para tus proyectos y contruccion",
-  "descripcion": "Maderas, herramientas y materiales. Consulta por WhatsApp.",
-  "whatsapp": "56933218714",
-  "color": "#17733a",
-  "columnas": 3,
+  "nombre": "Farmacia Barrio",
+  "nombreCorto": "Farmacia Barrio",
+  "descripcion": "Catálogo digital de productos de farmacia, cuidado personal y bienestar.",
+  "colorPrimario": "#17733A",
   "columnasPC": 4,
-  "columnasMobile": 2,
-  "telefono": "56933218714",
-  "email": "alejandro.a.c.cepeda@gmail.com",
-  "direccion": "29 Norte , Calle S/N talca",
-  "mapa": "https://www.google.com/maps/search/?api=1&query=-35.4308992%2C-71.63448",
-  "horarios": "Lunes a viernes: 09:00 a 13:00 y 14:30 a 18:30 h.",
-  "instagram": "htttps://instagram.com/tito.labs",
-  "facebook": "https://facebook.com",
-  "tiktok": "#"
+  "columnasMovil": 2,
+  "whatsapp": "56933218714",
+  "telefono": "+56 9 1234 5678",
+  "email": "contacto@farmaciabarrio.example",
+  "direccion": "Av. Las Rastras 2450, Talca",
+  "horarios": {
+    "lunes": "09:00 - 20:00",
+    "martes": "09:00 - 20:00",
+    "miercoles": "09:00 - 20:00",
+    "jueves": "09:00 - 20:00",
+    "viernes": "09:00 - 20:00",
+    "sabado": "09:30 - 14:00",
+    "domingo": "Cerrado"
+  },
+  "mapa": "https://www.google.com/maps/search/?api=1&query=Av.%20Las%20Rastras%202450%2C%20Talca%2C%20Chile",
+  "mensajeWhatsApp": "Hola, quisiera consultar por este producto:"
 }
