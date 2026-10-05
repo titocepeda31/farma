@@ -6,7 +6,7 @@
     "precio": "$9.990",
     "descripcion": "Protección solar facial y corporal.",
     "principal": "1",
-    "imagen": ""
+    "imagen": "imagenes/1.png"
   },
   {
     "id": "P002",
@@ -15,7 +15,7 @@
     "precio": "$7.990",
     "descripcion": "Crema hidratante para uso diario.",
     "principal": "1",
-    "imagen": ""
+    "imagen": "imagenes/2.png"
   },
   {
     "id": "P003",
@@ -24,7 +24,7 @@
     "precio": "$5.990",
     "descripcion": "Shampoo para uso frecuente.",
     "principal": "1",
-    "imagen": ""
+    "imagen": "imagenes/3.png"
   },
   {
     "id": "P004",
@@ -33,7 +33,7 @@
     "precio": "$5.990",
     "descripcion": "Acondicionador para cuidado diario.",
     "principal": "1",
-    "imagen": ""
+    "imagen": "imagenes/4.png"
   },
   {
     "id": "P005",
@@ -42,7 +42,7 @@
     "precio": "$4.490",
     "descripcion": "Gel de ducha para higiene diaria.",
     "principal": "1",
-    "imagen": ""
+    "imagen": "imagenes/5.png"
   },
   {
     "id": "P006",
@@ -51,7 +51,7 @@
     "precio": "$3.990",
     "descripcion": "Jabón líquido para manos.",
     "principal": "1",
-    "imagen": ""
+    "imagen": "imagenes/6.png"
   },
   {
     "id": "P007",
@@ -60,7 +60,7 @@
     "precio": "$3.490",
     "descripcion": "Pasta dental para higiene bucal diaria.",
     "principal": "1",
-    "imagen": ""
+    "imagen": "imagenes/7.png"
   },
   {
     "id": "P008",
@@ -69,7 +69,7 @@
     "precio": "$2.990",
     "descripcion": "Cepillo dental de uso diario.",
     "principal": "1",
-    "imagen": ""
+    "imagen": "imagenes/8.png"
   },
   {
     "id": "P009",
@@ -78,7 +78,7 @@
     "precio": "$4.990",
     "descripcion": "Enjuague bucal para complementar la higiene oral.",
     "principal": "1",
-    "imagen": ""
+    "imagen": "imagenes/9.png"
   },
   {
     "id": "P010",
@@ -87,7 +87,7 @@
     "precio": "$2.490",
     "descripcion": "Hilo dental para limpieza interdental.",
     "principal": "1",
-    "imagen": ""
+    "imagen": "imagenes/10.png"
   },
   {
     "id": "P011",
@@ -96,7 +96,7 @@
     "precio": "$6.990",
     "descripcion": "Termómetro digital para control de temperatura.",
     "principal": "1",
-    "imagen": ""
+    "imagen": "imagenes/11.png"
   },
   {
     "id": "P012",
@@ -105,7 +105,7 @@
     "precio": "$24.990",
     "descripcion": "Equipo digital para medición de presión arterial.",
     "principal": "1",
-    "imagen": ""
+    "imagen": "imagenes/12.png"
   },
   {
     "id": "P013",
