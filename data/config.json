@@ -1,23 +1,15 @@
 {
-  "nombre": "Farmacia Barrio",
-  "nombreCorto": "Farmacia Barrio",
+  "nombre": "Farmacia Express",
+  "nombreCorto": "Farmacia Express",
   "descripcion": "Catálogo digital de productos de farmacia, cuidado personal y bienestar.",
-  "colorPrimario": "#176B87",
+  "color": "#176B87",
   "columnasPC": 4,
   "columnasMovil": 2,
   "whatsapp": "56933218714",
   "telefono": "+56 9 1234 5678",
   "email": "contacto@farmaciabarrio.example",
   "direccion": "Av. Las Rastras 2450, Talca",
-  "horarios": {
-    "lunes": "09:00 - 20:00",
-    "martes": "09:00 - 20:00",
-    "miercoles": "09:00 - 20:00",
-    "jueves": "09:00 - 20:00",
-    "viernes": "09:00 - 20:00",
-    "sabado": "09:30 - 14:00",
-    "domingo": "Cerrado"
-  },
+  "horarios": "Lunes a viernes: 09:30 a 19:00 h.\nSábados: 10:00 a 14:00 h.\nDomingos y festivos: cerrado.",
   "mapa": "https://www.google.com/maps/search/?api=1&query=Av.%20Las%20Rastras%202450%2C%20Talca%2C%20Chile",
   "mensajeWhatsApp": "Hola, quisiera consultar por este producto:"
 }
